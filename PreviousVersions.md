@@ -1,20 +1,7 @@
-# LessGrind+
-A vanilla+ mod pack aimed at improving basic game play mechanics that reduce unnecessary grind and make the game feel more interesting.
-
-## [Available on Modrinth](https://modrinth.com/modpack/lessgrindplus)
-
-<img alt="LG+ Less Grind More Adventure" src="gallery/less_grind_plus_gal.png" width="300px">
-
-# A Vanilla+ modpack with three goals in mind.
-
-1. Reduce _needless_ grind in Minecraft. It isnt a fast track to the end game, but a reduction to some tedious repetitive aspects of the game that get annoying.
-2. Extra adventure. Addition structures, biomes, dimensions and resource packs that add to the experience.
-3. Keep that classic Minecraft feel. We know its modded, but this _could_ be in the base game.
-
-All the mods, data packs and resource packs will be listed in the below categories explaining their purpose for being included.
-You can find information for [Previous Versions](https://github.com/birdwing/Minecraft-LessGrind-Plus/blob/main/PreviousVersions.md) at the github page.
-
-# Current Version 1.0.0 for Minecraft 1.21.11
+## Previous Versions
+<details><summary>Versions 0.1.0b and 0.0.10b</summary>
+Special thanks goes to [Vanilla Tweaks](https://vanillatweaks.net/) for many features!
+  
 ## Reduce _Needless_ Grind
 ### Gameplay Changes
 - [Quick Right-Click](https://modrinth.com/mod/quick-right-click)  
@@ -70,57 +57,10 @@ You can find information for [Previous Versions](https://github.com/birdwing/Min
   Borderless fullscreen in minecraft. Now, when you tab to chrome to look up that cool restone tutorial, your full-screen minecraft window will still be visible!
 - [Better Statistics Screen](https://modrinth.com/mod/better-stats)  
   Now it's easier to find out how many times creepers have snuck up on you!
-- [Anti Enderman Grief](https://modrinth.com/datapack/anti-enderman-grief)
-  Now they can't pickup blocks and destroy the environment.
-- [Cauldron Concrete Powder](https://modrinth.com/datapack/cauldron-concrete-powder)
-  Making concrete from powder sucks. Now just fill a cauldron will water and drop the concrete powder (in item form) into the cauldron. It will turn into concrete!
-- [Cauldron Mud](https://modrinth.com/datapack/cauldron-mud)
-  Nobody has time to stand around right clicking dirt with water bottles. Just fill a cauldron with water, and drop the dirt (in item form) into the cauldron. Now you have mud.
-- [Double Shulker Shell Drops](https://modrinth.com/datapack/double-shulker-shell-drops)
-  Shulkers have two shells... now they always drop both.
-- [Dragon Drops Elytra](https://modrinth.com/mod/dragon-drops-elytra)
-  Just like it sounds.
-- [Mini Blocks](https://modrinth.com/datapack/mini-blocks-datapack) & [Mini Blocks: Items Edition](https://modrinth.com/datapack/mini-blocks-items)
-  Take any block or item and put it in a stonecutter. Now you have a mini version of it to decorate with!
-- [Just Mob Heads](https://modrinth.com/mod/just-mob-heads)
-  Now every mob has a chance to drop it's head when you kill it.
-- [Cycle Paintings](https://modrinth.com/mod/cycle-paintings)
-  Want a specific painting? Place a painting on the wall, then right click it while holding another painting, to cycle through the options! No more place, breaking, placing, breaking...
-- [Silent Mobs/Minecarts](https://modrinth.com/datapack/silent-mobs)
-  Captured Mobs too loud? Now if you use a nametag to name them "silent" they will stop making noise!
-### Crafting and Smelting Changes
-- [Make Me Whole Again](https://modrinth.com/datapack/make-me-whole-again)
-  Stairs, slabs, walls and carpets can no be converted back into their full blocks!
-- [Better Crafts: Dispenser](https://modrinth.com/datapack/better-crafts-dispenser)
-  Crafting Dispensers is annoying because of the bow, and .. dang I just made another stack of droppers. Well now! Put the dropper in the crafting grid with a bow, and you got a brand new dispenser!
-- [Make a Dye Out Of It](https://modrinth.com/datapack/make-a-dye-out-of-it)
-  Why are different colored dye's so hard to get in minecraft? Well now mising colors works the same (or close enough) to the real world!
-  Not only can you now make *Glow Ink Sacs* by combining Inc sacs with something glowy, you can now combine different dyes together, along with new sources of dye around the world!
-  Full list of the recipe changes can be found on the [Make a Dye Out Of It Wiki Page](https://syhmac.pl/wiki/make-a-dye-out-of-it-madooi/#section-4-2)
-- [Make Me Shapeless](https://modrinth.com/datapack/make-me-shapeless)
-  Craft items such as bread, paper and shulkerboxes in your 2x2 crafting grid.
-- [Better Unpackables](https://modrinth.com/datapack/better-unpackables)
-  This could also go under inventory management. This allows certain blocks to be "unpacked" back into their components, such as turning packed ice back into ice, or Glowstone blocks back into Glowstone dust!
-  For a list of all unpacking recipes visit the [Better Unpackables Unpacking Recipes Wiki Page](https://github.com/Classics-Craftworks/Better-Unpackables/wiki/Unpacking-Recipes).
-- [Nether Wart Blocks to Nether Warts](https://modrinth.com/mod/nether-wart-block-to-nether-warts)
-  This allows converting nether wart blocks into nether warts!
-- [Craftable Horse Armor](https://modrinth.com/datapack/craft-horse-armor)
-  Now you can always protect your horse!
-- [Better Craftables](https://modrinth.com/datapack/better-craftables)
-  Some things in minecraft should just be craftable or smeltable!
-  This mod adds a bunch of quality of life crafting and smelting recipes.
-  <details><summary>View Recipes</summary>
-    <ul>
-    <li>Craftable Coral Blocks (Makes coral renewable by bonemealing the blocks to get the fans) & Bells</li>
-    <li>Craftable Gravel</li>
-    <li>Powered Rails from Copper! Gold is precious why waste it on slow minecarts.</li>
-    <li>Universal Dyeing: Any colored glass, wool or terracota can now be dyed into any other color. Hurray!</li>
-    <li>Smelt Raw Ore Blocks directly into a full block of the ore. Raw Iron Ore -> Iron Block. Blast furnaces are now useful!</li>
-    <li>Rotten Flesh now smelts into leather, it smells funny but gets the job done.</li>
-    <li><a href="https://github.com/Classics-Craftworks/Better-Craftables/wiki/Crafting-Recipes" target="_blank">All Crafting Recipes</a></li>
-    <li><a href="https://github.com/Classics-Craftworks/Better-Craftables/wiki/Smelting-Recipes" target="_blank">All Smelting Recipes</a></li>
-    </ul>
-  </details>
+- [Vanilla Tweaks](https://vanillatweaks.net/)  
+  Lot's of useful additions from Vanilla Tweaks!  
+  <details><summary>Datapacks</summary><ul><li><b>Anti Enderman Grief</b>: Now they can't pickup blocks and destroy the environment.</li><li><b>Cauldron Concrete</b>: Making concrete from powder sucks. Now just fill a cauldron will water and drop the concrete powder (in item form) into the cauldron. It will turn into concrete!</li><li><b>Cauldron Mud</b>: Nobody has time to stand around right clicking dirt with water bottles. Just fill a cauldron with water, and drop the dirt (in item form) into the cauldron. Now you have mud.</li><li><b>Double Shulker Shells</b>: Shulkers have two shells... now they always drop both.</li><li><b>Dragon Drops Elytra</b>: Just like it sounds.</li><li><b>Mini Blocks</b>: Take any block and put it in a stonecutter. Now you have a mini version of it to decorate with!</li><li><b>More Mob Heads</b>: Now every mob has a chance to drop it's head when you kill it.</li><li><b>Painting Picker</b>: Put your painting in the stonecutter to select which painting you want on the wall. No more placing, breaking, placing, breaking,...</li><li><b>Silence Mobs</b>: Captured Mobs too loud? Now if you use a nametag to name them "silence me" they will stop making noise! You can change their name afterwards, and they will still be quiet.</li></ul></details>  
+  <details><summary>Crafing Tweaks</summary><ul><li><b>Back to Blocks</b>: Stairs and slabs can no be converted back into full blocks.</li><li><b>Dropper to Dispenser</b>: Crafing Dispensers is annoying because of the box. Now you can place a dropper in the middle of the crafting grid, with the bow recipe around it, to create dispensers.</li><li><b>Rotten Flesh to Leather</b>: Now you can make your zombie farm a leather farm. Simply smelt the rotten flesh.</li><li><b>Copper Powered Rails</b>: Gold is precious and copper is abundant. Now you can craft powered rails out of copper also!</li><li><b>Charcoal to Black Dye</b>: Squids are annoying to hunt. Now turn Charcoal into black dye.</li><li><b>Coal to Black Dye</b>: Squids are annoying to hunt. Now turn Coal into black dye... This seems familiar but different.</li><li><b>Universal Dyeing</b>: Any colored glass, wool or terracota can now be dyed into any other color.</li><li><b>Straight to Shapeless</b>: Craft items such as bread, paper and shulkerboxes in your 2x2 crafging grid.</li><li><b>Craftable Gravel</b>: Now you can make gravel from 4 flint.</li><li><b>Craftable Horse Armour</b>: Now you can always protect your horse.</li><li><b>Craftable Coral Blocks</b>: Now you can make coral blocks from coral fans. Making coral renewable (bonemeal coral block to get a coral fan).</li><li><b>Unpackable Ice:</b>Now blue ice can be "unpacked" into compressed ice, and compressed ice can be "unpacked" into regular ice.</li><li><b>Unpackable Nether Wart</b>: Now Nether War Blocks can be "unpacked" back into Nether Wart.</li><li><b>Unpackable Wool</b>: Wool can now be broken apart into string.</li></ul></details>
 
 ### Inventory Management
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)  
@@ -128,7 +68,7 @@ You can find information for [Previous Versions](https://github.com/birdwing/Min
   <details><summary>More Info</summary><b>Better Right Mouse Button</b>: Now if you are holding a stack of items, while the right mouse button is held down, if you drag over a slot multiple times, an item will be put there multiple times. Helps with putting recipes in crafting benches.<br /><b>Better Left Mouse Button</b>: Now if you left click an item, and continue holding down left click while you drag your mouse across the inventory. Items of the same type will be picked up and added to the stack you picked up. If you hold down shift while dragging, items of the same type will be "shift clicked". Easily pickup and move items. If you hold down left mouse button without picking up and item, and hold down shift, every item you "drag over" will be "shift clicked".</details>
 - [ItemSwapper](https://modrinth.com/plugin/itemswapper)  
   Doing a lot of building, with a lot of different blocks? Wish you could easily swap tools/weapons without having to open your inventory? Well now you can! Hold down the <kbd>R</kbd> key to open an interface that allow you to swith the block/tool/weapon in your hand from another in your inventory. With intuitive groups, stone blocks will show other stone like blocks in your inventory. Tools with show tools, etc.
-- [Bundles Beyond](https://modrinth.com/mod/bundles-beyond)  
+- [Bundles Beyone](https://modrinth.com/mod/bundles-beyond)  
   Bundles are very useful! However, only being able to see the first 12 items in them... that isn't. Now you can see **everything** in the bundle. You're welcome.
 - [Peek](https://modrinth.com/mod/peek)  
   Placing down a shulker box to see what's in it is boring. Now you can however over it in the inventory! Also, why walk around opening a bunch of boxes to see what's in them, now an item or name is displayed on the box in the world, so you can get an idea of what's inside!
@@ -141,7 +81,7 @@ You can find information for [Previous Versions](https://github.com/birdwing/Min
 - [Stack Refill](https://modrinth.com/mod/stack-refill)  
   Placing a bunch of blocks and constantly needing to open the inventory to get more? Well not anymore! Once you use the last block, if more of it exists in your inventory it will automatically appear in your hand!  
   <details><summary>More Info</summary>This also works to replace tools/weapons when they break, potions when you throw them and food when you eat. Now you can keep just the important things in your hotbar.</details>
-- [Bundle as Quiver](https://modrinth.com/mod/bundle-as-quiver)  
+- [Bundled Arrows](https://modrinth.com/mod/bundled-arrows)  
   Have different types of arrows? Or infinity and only need one? Why take up inventory space! If you have any arrows put them in bundles, you can use them with your bow or crossbow without having to take them out first!
 
 ### Now.. Where is that again?
@@ -185,8 +125,9 @@ You can find information for [Previous Versions](https://github.com/birdwing/Min
   Ender pearl statis chambers are easy to build, however choosing which one to activate requires complicated redstone. Teleporters remove that grind.
 - [Animal Feeding Trough](https://modrinth.com/mod/animal_feeding_trough)  
   Wish animals were smart enough to feed themselves? Well now they can! Put down a feeding trough, and fill it with food. Animals will eat and multiply on their own as long as the trough has food. Farming is now simpler than ever!
-- [Invisible Frames](https://modrinth.com/mod/invisible-frames-mod)  
-  Now item frames can be made invisible without commands! Allowing for decorating or organizing storage rooms. Simply right click on the item frame while sneaking.
+- [Invisible Frames](https://modrinth.com/mod/eg-invisible-frames)  
+  Now item frames can be made invisible without commands! Allowing for decorating or organizing storage rooms.  
+  <details><summary>More Info</summary>To make an item frame invisible, make sure there is an item in the frame and right-click it with any glass pane. To make the item frame visible again, sneak and left-click it or left-click it twice while not sneaking!</details>
 
 ## Adventure!
 - [True Ending - Ender Dragon Overhaul](https://modrinth.com/datapack/true-ending)  
@@ -254,12 +195,21 @@ You can find information for [Previous Versions](https://github.com/birdwing/Min
   More awesome vanilla like structures to find throughout the world!
 
 ## Because It's Pretty
-- [Scholar](https://modrinth.com/mod/scholar)  
-  Books are now easier to write in, and format! Text can now be **bold** or _italic_. Books themselves can be dyed different colors!
+- [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) and [Fresh Animations: Extensions](https://modrinth.com/resourcepack/fresh-animations-extensions)  
+  Make the game feel more lively by overhauling the mob's with new looks and way better animations. Is that villager giving you the side eye... why yes, they can do that now.
 - [Armor Statues](https://modrinth.com/mod/armor-statues)  
   Armor stands are now posable, can have arms and even be made invisible! Now this is decorating.  
   <details><summary>More Info</summary>Shift right click an armor stand with an empty hand to open the interface. Now you can adjust the armorstand however you want! Pre-built poses also make it easy to quickly do things like, place an item on the ground or show off your cool sword that you got exploring the nether!</details>
-### Terrain and Rendering Changes
+- [3D Skin Layer's](https://modrinth.com/mod/3dskinlayers)  
+  Makes skins look cleaner.
+- [Continuity](https://modrinth.com/mod/continuity)  
+  Connected textures.
+- [Recolourful Containers GUI + HUD](https://modrinth.com/resourcepack/recolourful-containers-gui)  
+  Each container or useable block such as a crafting table now gets a makeover! Easily tell what you are interacting with.
+- [\[ETF\] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)  
+  Emissive, Random & Custom texture support for entities in resourcepacks.
+- [\[EMF\] Entity Model Features](https://modrinth.com/mod/entity-model-features)  
+  Allows for custom entity models, which makes all the cool animations possible!
 - [Geophilic](https://modrinth.com/datapack/geophilic)  
   Couldn't decide if this went here or under adventure. It's a mod that modifies the vanilla terrain in subtle ways to give it more character while staying true to minecrafts roots.
 - [Unnamed Desert](https://modrinth.com/datapack/unnamed-desert)  
@@ -269,49 +219,13 @@ You can find information for [Previous Versions](https://github.com/birdwing/Min
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons)  
   Creates and stores LOD's which are lower detailed terrain chunks. This allows the minecraft world to be visible *much* farther away, without turning your PC into a space heater!
   <details><summary>More Info</summary>Terrain that is farther away will have lower detail than terrain close up. While you some things will be hard to make out, the general <i>feel</i> of the terrain is there making the world feel much bigger and allowing you to tell what biomes they are. This allows you to see way off in the distance without having to fully load all the minecraft chunks. Terrain is also cached on your computer so that you can see further than the server render distance.</details>
-- [\[ETF\] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)  
-  Emissive, Random & Custom texture support for entities in resourcepacks.
-- [\[EMF\] Entity Model Features](https://modrinth.com/mod/entity-model-features)  
-  Allows for custom entity models, which makes all the cool animations possible!
-- [3D Skin Layer's](https://modrinth.com/mod/3dskinlayers)  
-  Makes skins look cleaner.
-### Resource Packs
-- [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) and [Fresh Animations: Extensions](https://modrinth.com/resourcepack/fresh-animations-extensions)  
-  Make the game feel more lively by overhauling the mob's with new looks and way better animations. Is that villager giving you the side eye... why yes, they can do that now.
-- [Continuity](https://modrinth.com/mod/continuity)  
-  Connected textures.
-- [Recolourful Containers GUI + HUD](https://modrinth.com/resourcepack/recolourful-containers-gui)  
-  Each container or useable block such as a crafting table now gets a makeover! Easily tell what you are interacting with.
 - [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)  
   Now it's possible to tell enchanted books apart when you buy them from villagers! Each enchantment get's it's own aesthetic book design.
-- [Red Iron Golem Flowers](https://modrinth.com/resourcepack/red-irongolem-flowers)
-  Puts the red flowers back on the Iron Golem texture.
-- [Lower Defaults (Shield & Fire)](https://modrinth.com/resourcepack/lower-defaults)
-  Shields and being on fire no longer takes up so much of your screen.
-- [axy's Honey Note-ify](https://modrinth.com/resourcepack/axys-honey-note-ify)
-  Yuo can now tell when a bee hive is full of honey! The bees helpfully put up a stick note for you. It even has an explanation mark on it!
-  Bee's are so helpful.
-- [Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)
-  A configurable resource pack that makes working with redstone easier!  
-  <details>
-    <summary>List of Default Changes</summary>
-    <ul>
-      <li><b>Sticky Piston Sides</b>: The side of the sticky piston now has green goo, so you can tell if it's sticky even if there is a block attached to it.</li>
-      <li><b>Directional Hoppers</b>: The top of hoppers now has a subtle arrow, so you can see which way they point without having to look at the bottom.</li>
-      <li><b>Directional Dispensors and Droppers</b>: Now have an arrow on the side so you can tell which way they face.</li>
-      <li><b>Directional Observers</b>: Now have an arrow on the side so you can tell which way they face.</li>
-      <li><b>Visual Note Block Pitch</b>: Tells you what note the Note Block is set to on the side of it. Now it's easier to make music.</li>
-      <li><b>Redstone Signal Strength</b>: The redstone now has a number indicating it's signal strength.</li>
-      <li>Various redstone components will have sections of them change or light up to indicate they are powered or doing something.</li>
-    </ul>
-  </details>
-- [Stemtacular Orange](https://modrinth.com/resourcepack/stemtacular-orange)
-  Pumpkin and watermelon now have different stems so you can tell what you planted. The stems will also now connect to the side of the block, which makes more sense for the textures!
-- [Vignette Removed](https://modrinth.com/resourcepack/vignette-removed)
-  Removes the black gradient around the edge of the screen and the red ting when you are near the world border.
-- [Waxed Copper Indicators](https://modrinth.com/resourcepack/waxed-copper-indicators)
-  Now you can tell if your copper items are waxed just by looking at them in your inventory, a little honeycomb badge will be displayed on waxed items!
-  
+- [Scholar](https://modrinth.com/mod/scholar)  
+  Books are now easier to write in, and format! Text can now be **bold** or _italic_. Books themselves can be dyed different colors!
+- [Vanilla Tweaks](https://vanillatweaks.net/)  
+  Lot's of changes from Vanilla Tweaks that just make sense!  
+  <details><summary>Texture Changes</summary><ul><li><b>Red Iron Golem Flowers</b>: Puts the red flowers back on the Iron Golem texture.</li><li><b>Endless End Rods</b>: Removes the purple base from the end rods so that look better with more builds.</li><li><b>Animated Campfire Items</b>: Now the fire is animated in your inventory!</li><li><b>Ashless Campfires</b>: Campfires are now a better building block without all the ash on the bottom of them.</li><li><b>Splash Bottle o' Enchanging</b>: Now it looks throwable!</li><li><b>Plain Lether Armour</b>: Removes the brown overlay so dyed leather pops!</li><li><b>More Zombies</b>: Now zombies have more than 1 texture!</li><li><b>Alternate Bedrock</b>: Bedrock looks more black and less like birdpoop.</li><li><b>Circular Log Tops</b>: Log is still cube, but rings are rings.</li><li><b>Variation Packs</b>: Gives variations to these texture so they don't look so grid like:<ul><li>Dirt</li><li>Course Dirt</li><li>Grass</li><li>Cobblestone</li><li>Moss</li><li>Bricks</li><li>Birch Logs</li><li>Red Mushroom Blocks</li><li>Nylium</li><li>End Stone</li><li>Gravel</li><li>Mycelium</li><li>Planks</li><li>Stone</li><li>Terracotta</li><li>Unpolished Stones</li><li>Offset Bushes</li><li>Randomly Rotated Sunflowers</li><li>Villagers</li></ul></li><li><b>Diminishing Tools</b>: Tool items begin to look broken down as their durrability goes down (only works on vanilla tools)</li><li><b>Visual Waxed Copper (Items)</b>: Now you can tell if your copper items are waxed just by looking at them in your inventory.</li><li><b>Different Stems</b>: Pumpkin and watermelon now have different stems so you can tell what you planted.</li><li><b>Age 25 Kelp</b>: Fully grown kelp will now have pink flowers on top so you know that it won't grow any further.</li><li><b>Clear Banner Patterns</b>: Now you can tell what they are from the item in your inventory.</li><li><b>Sticky Piston Sides</b>: The side of the sticky piston now has green goo, so you can tell if it's sticky even if there is a block attached to it.</li><li><b>Directional Hoppers</b>: The top of hoppers now has a subtle arrow, so you can see which way they point without having to look at the bottom.</li><li><b>Directional Dispensors and Droppers</b>: Now have an arrow on the side so you can tell which way they face.</li><li><b>Directional Observers</b>: Now have an arrow on the side so you can tell which way they face.</li><li><b>Visual Honey Stages</b>: You can now tell what level of honey is in bee nests and hives by looking at them. It changes as they fill up.</li><li><b>Visual Note Block Pitch</b>: Tells you what note the Note Block is set to on the side of it. Now it's easier to make music.</li><li><b>Lower Fire</b>: When your on fire, it takes up less of your screen.</li><li><b>Lower Shield</b>: Holding a shield now takes up less of your screen.</li><li><b>No Spyglass Overlay</b>: Now it's just a zoom.</li><li><b>No Vignette</b>: Removes the black gradient around the edge of the screen.</li><li><b>Fixes to bugs or issues in the default textures</b>:<ul><li>Big Dripleaf Stem Fix</li><li>Small Dripleaf Stem Fix</li><li>Buckets are all on the same height in your inventory, and all the water is the same color.</li><li>Cactus Bottom Fix</li><li>Bright Rib Armour Trim</li><li>Beacon beam textures are now properly sized.</li><li>Blaze's Rods Fix</li><li>All block breaking particles are no the correct color.</li><li>Iron Bar z-fighting fix</li></ul></li></ul></details>
 
 ### Resource Pack's for Mods
 These packs are included so that tools, weapons and items added by mods or datapacks can display properly.
@@ -345,6 +259,9 @@ These packs are included so that tools, weapons and items added by mods or datap
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)  
   Better chunk generation.
 
+## Credits:
+Vanilla Tweaks: https://vanillatweaks.net/
+
 ### Library and Helper Mods
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [Collective](https://modrinth.com/mod/collective)
@@ -358,21 +275,18 @@ These packs are included so that tools, weapons and items added by mods or datap
 - [YetAnotherConfigLib (Yacle)](https://modrinth.com/mod/yacl)
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
 - [Fzzy Config](https://modrinth.com/mod/fzzy-config)
+- [Global Datapacks](https://modrinth.com/mod/global-datapacks)  
+  Makes adding datapacks to your world easier. You can now add them _while creating a new world_ instead of having to manually add them to the world folder after it's already made.
 - [Mod Menu](https://modrinth.com/mod/modmenu)  
   Makes it possible to configure mods in game.
 - [TCDCommons API](https://modrinth.com/mod/tcdcommons)
 - [Configured Defaults](https://modrinth.com/mod/configured-defaults)  
   Makes it possible to set default configs for all the mods. So that default keybinds and other settings are a thing, and not annoying for everyoen to setup on their own.
-- [Soft Loader](https://modrinth.com/mod/soft-loader)  
-  Automatically adds and activates datapacks in any new world created!
+- [Packed Packs](https://modrinth.com/mod/packed-packs)  
+  Creates "profiles" for datapacks and resources. So that the modpack can easily load resourcepacks and datapacks when new worlds are created.
 - [Moog's Structure Lib](https://modrinth.com/mod/moogs-structure-lib)
 - [Cobweb](https://modrinth.com/mod/cobweb)
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [Quad](https://modrinth.com/mod/quad)
 - [MCPitanLib](https://modrinth.com/mod/mcpitanlibarch)
-- [Sparse Structures](https://modrinth.com/mod/sparsestructures)
-  Makes sure that all the structures generated in the world, because we have added so many of them, do not spawn too close to each other.
-- [Respackopts](https://modrinth.com/mod/respackopts)
-  The mod that allows us to configure the Redstone Tweaks Resource Pack.
-- [LibJF](https://modrinth.com/mod/libjf)
-- [Deimos](https://modrinth.com/mod/deimos)
+</details>
