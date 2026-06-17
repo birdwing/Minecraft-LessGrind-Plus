@@ -2,7 +2,6 @@
 A vanilla+ mod pack aimed at improving basic game play mechanics that reduce unnecessary grind and make the game feel more interesting.
 
 ## [Available on Modrinth](https://modrinth.com/modpack/lessgrindplus)
-It will be available after it's review period is finished.
 
 <img alt="LG+ Less Grind More Adventure" src="gallery/less_grind_plus_gal.png" width="300px">
 
@@ -345,9 +344,6 @@ These packs are included so that tools, weapons and items added by mods or datap
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)  
   Better chunk generation.
 
-## Credits:
-Vanilla Tweaks: https://vanillatweaks.net/
-
 ### Library and Helper Mods
 - [Fabric API](https://modrinth.com/mod/fabric-api)
 - [Collective](https://modrinth.com/mod/collective)
@@ -361,8 +357,6 @@ Vanilla Tweaks: https://vanillatweaks.net/
 - [YetAnotherConfigLib (Yacle)](https://modrinth.com/mod/yacl)
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
 - [Fzzy Config](https://modrinth.com/mod/fzzy-config)
-- [Global Datapacks](https://modrinth.com/mod/global-datapacks)  
-  Makes adding datapacks to your world easier. You can now add them _while creating a new world_ instead of having to manually add them to the world folder after it's already made.
 - [Mod Menu](https://modrinth.com/mod/modmenu)  
   Makes it possible to configure mods in game.
 - [TCDCommons API](https://modrinth.com/mod/tcdcommons)
@@ -375,6 +369,12 @@ Vanilla Tweaks: https://vanillatweaks.net/
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [Quad](https://modrinth.com/mod/quad)
 - [MCPitanLib](https://modrinth.com/mod/mcpitanlibarch)
+- [Sparse Structures](https://modrinth.com/mod/sparsestructures)
+  Makes sure that all the structures generated in the world, because we have added so many of them, do not spawn too close to each other.
+- [Respackopts](https://modrinth.com/mod/respackopts)
+  The mod that allows us to configure the Redstone Tweaks Resource Pack.
+- [LibJF](https://modrinth.com/mod/libjf)
+- [Deimos](https://modrinth.com/mod/deimos)
 
 ## Previous Versions
 <details><summary>Versions 0.1.0b and 0.0.10b</summary>
