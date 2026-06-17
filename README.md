@@ -88,6 +88,7 @@ All the mods, data packs and resource packs will be listed in the below categori
   Want a specific painting? Place a painting on the wall, then right click it while holding another painting, to cycle through the options! No more place, breaking, placing, breaking...
 - [Silent Mobs/Minecarts](https://modrinth.com/datapack/silent-mobs)
   Captured Mobs too loud? Now if you use a nametag to name them "silent" they will stop making noise!
+### Crafting and Smelting Changes
 - [Make Me Whole Again](https://modrinth.com/datapack/make-me-whole-again)
   Stairs, slabs, walls and carpets can no be converted back into their full blocks!
 - [Better Crafts: Dispenser](https://modrinth.com/datapack/better-crafts-dispenser)
