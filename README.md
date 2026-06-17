@@ -128,7 +128,7 @@ All the mods, data packs and resource packs will be listed in the below categori
   <details><summary>More Info</summary><b>Better Right Mouse Button</b>: Now if you are holding a stack of items, while the right mouse button is held down, if you drag over a slot multiple times, an item will be put there multiple times. Helps with putting recipes in crafting benches.<br /><b>Better Left Mouse Button</b>: Now if you left click an item, and continue holding down left click while you drag your mouse across the inventory. Items of the same type will be picked up and added to the stack you picked up. If you hold down shift while dragging, items of the same type will be "shift clicked". Easily pickup and move items. If you hold down left mouse button without picking up and item, and hold down shift, every item you "drag over" will be "shift clicked".</details>
 - [ItemSwapper](https://modrinth.com/plugin/itemswapper)  
   Doing a lot of building, with a lot of different blocks? Wish you could easily swap tools/weapons without having to open your inventory? Well now you can! Hold down the <kbd>R</kbd> key to open an interface that allow you to swith the block/tool/weapon in your hand from another in your inventory. With intuitive groups, stone blocks will show other stone like blocks in your inventory. Tools with show tools, etc.
-- [Bundles Beyone](https://modrinth.com/mod/bundles-beyond)  
+- [Bundles Beyond](https://modrinth.com/mod/bundles-beyond)  
   Bundles are very useful! However, only being able to see the first 12 items in them... that isn't. Now you can see **everything** in the bundle. You're welcome.
 - [Peek](https://modrinth.com/mod/peek)  
   Placing down a shulker box to see what's in it is boring. Now you can however over it in the inventory! Also, why walk around opening a bunch of boxes to see what's in them, now an item or name is displayed on the box in the world, so you can get an idea of what's inside!
@@ -141,7 +141,7 @@ All the mods, data packs and resource packs will be listed in the below categori
 - [Stack Refill](https://modrinth.com/mod/stack-refill)  
   Placing a bunch of blocks and constantly needing to open the inventory to get more? Well not anymore! Once you use the last block, if more of it exists in your inventory it will automatically appear in your hand!  
   <details><summary>More Info</summary>This also works to replace tools/weapons when they break, potions when you throw them and food when you eat. Now you can keep just the important things in your hotbar.</details>
-- [Bundled Arrows](https://modrinth.com/mod/bundled-arrows)  
+- [Bundle as Quiver](https://modrinth.com/mod/bundle-as-quiver)  
   Have different types of arrows? Or infinity and only need one? Why take up inventory space! If you have any arrows put them in bundles, you can use them with your bow or crossbow without having to take them out first!
 
 ### Now.. Where is that again?
@@ -185,9 +185,8 @@ All the mods, data packs and resource packs will be listed in the below categori
   Ender pearl statis chambers are easy to build, however choosing which one to activate requires complicated redstone. Teleporters remove that grind.
 - [Animal Feeding Trough](https://modrinth.com/mod/animal_feeding_trough)  
   Wish animals were smart enough to feed themselves? Well now they can! Put down a feeding trough, and fill it with food. Animals will eat and multiply on their own as long as the trough has food. Farming is now simpler than ever!
-- [Invisible Frames](https://modrinth.com/mod/eg-invisible-frames)  
-  Now item frames can be made invisible without commands! Allowing for decorating or organizing storage rooms.  
-  <details><summary>More Info</summary>To make an item frame invisible, make sure there is an item in the frame and right-click it with any glass pane. To make the item frame visible again, sneak and left-click it or left-click it twice while not sneaking!</details>
+- [Invisible Frames](https://modrinth.com/mod/invisible-frames-mod)  
+  Now item frames can be made invisible without commands! Allowing for decorating or organizing storage rooms. Simply right click on the item frame while sneaking.
 
 ## Adventure!
 - [True Ending - Ender Dragon Overhaul](https://modrinth.com/datapack/true-ending)  
@@ -342,8 +341,8 @@ Vanilla Tweaks: https://vanillatweaks.net/
 - [TCDCommons API](https://modrinth.com/mod/tcdcommons)
 - [Configured Defaults](https://modrinth.com/mod/configured-defaults)  
   Makes it possible to set default configs for all the mods. So that default keybinds and other settings are a thing, and not annoying for everyoen to setup on their own.
-- [Packed Packs](https://modrinth.com/mod/packed-packs)  
-  Creates "profiles" for datapacks and resources. So that the modpack can easily load resourcepacks and datapacks when new worlds are created.
+- [Soft Loader](https://modrinth.com/mod/soft-loader)  
+  Automatically adds and activates datapacks in any new world created!
 - [Moog's Structure Lib](https://modrinth.com/mod/moogs-structure-lib)
 - [Cobweb](https://modrinth.com/mod/cobweb)
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
