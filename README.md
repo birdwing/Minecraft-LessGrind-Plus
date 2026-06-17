@@ -254,21 +254,12 @@ All the mods, data packs and resource packs will be listed in the below categori
   More awesome vanilla like structures to find throughout the world!
 
 ## Because It's Pretty
-- [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) and [Fresh Animations: Extensions](https://modrinth.com/resourcepack/fresh-animations-extensions)  
-  Make the game feel more lively by overhauling the mob's with new looks and way better animations. Is that villager giving you the side eye... why yes, they can do that now.
+- [Scholar](https://modrinth.com/mod/scholar)  
+  Books are now easier to write in, and format! Text can now be **bold** or _italic_. Books themselves can be dyed different colors!
 - [Armor Statues](https://modrinth.com/mod/armor-statues)  
   Armor stands are now posable, can have arms and even be made invisible! Now this is decorating.  
   <details><summary>More Info</summary>Shift right click an armor stand with an empty hand to open the interface. Now you can adjust the armorstand however you want! Pre-built poses also make it easy to quickly do things like, place an item on the ground or show off your cool sword that you got exploring the nether!</details>
-- [3D Skin Layer's](https://modrinth.com/mod/3dskinlayers)  
-  Makes skins look cleaner.
-- [Continuity](https://modrinth.com/mod/continuity)  
-  Connected textures.
-- [Recolourful Containers GUI + HUD](https://modrinth.com/resourcepack/recolourful-containers-gui)  
-  Each container or useable block such as a crafting table now gets a makeover! Easily tell what you are interacting with.
-- [\[ETF\] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)  
-  Emissive, Random & Custom texture support for entities in resourcepacks.
-- [\[EMF\] Entity Model Features](https://modrinth.com/mod/entity-model-features)  
-  Allows for custom entity models, which makes all the cool animations possible!
+### Terrain and Rendering Changes
 - [Geophilic](https://modrinth.com/datapack/geophilic)  
   Couldn't decide if this went here or under adventure. It's a mod that modifies the vanilla terrain in subtle ways to give it more character while staying true to minecrafts roots.
 - [Unnamed Desert](https://modrinth.com/datapack/unnamed-desert)  
@@ -278,13 +269,49 @@ All the mods, data packs and resource packs will be listed in the below categori
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons)  
   Creates and stores LOD's which are lower detailed terrain chunks. This allows the minecraft world to be visible *much* farther away, without turning your PC into a space heater!
   <details><summary>More Info</summary>Terrain that is farther away will have lower detail than terrain close up. While you some things will be hard to make out, the general <i>feel</i> of the terrain is there making the world feel much bigger and allowing you to tell what biomes they are. This allows you to see way off in the distance without having to fully load all the minecraft chunks. Terrain is also cached on your computer so that you can see further than the server render distance.</details>
+- [\[ETF\] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)  
+  Emissive, Random & Custom texture support for entities in resourcepacks.
+- [\[EMF\] Entity Model Features](https://modrinth.com/mod/entity-model-features)  
+  Allows for custom entity models, which makes all the cool animations possible!
+- [3D Skin Layer's](https://modrinth.com/mod/3dskinlayers)  
+  Makes skins look cleaner.
+### Resource Packs
+- [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) and [Fresh Animations: Extensions](https://modrinth.com/resourcepack/fresh-animations-extensions)  
+  Make the game feel more lively by overhauling the mob's with new looks and way better animations. Is that villager giving you the side eye... why yes, they can do that now.
+- [Continuity](https://modrinth.com/mod/continuity)  
+  Connected textures.
+- [Recolourful Containers GUI + HUD](https://modrinth.com/resourcepack/recolourful-containers-gui)  
+  Each container or useable block such as a crafting table now gets a makeover! Easily tell what you are interacting with.
 - [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)  
   Now it's possible to tell enchanted books apart when you buy them from villagers! Each enchantment get's it's own aesthetic book design.
-- [Scholar](https://modrinth.com/mod/scholar)  
-  Books are now easier to write in, and format! Text can now be **bold** or _italic_. Books themselves can be dyed different colors!
-- [Vanilla Tweaks](https://vanillatweaks.net/)  
-  Lot's of changes from Vanilla Tweaks that just make sense!  
-  <details><summary>Texture Changes</summary><ul><li><b>Red Iron Golem Flowers</b>: Puts the red flowers back on the Iron Golem texture.</li><li><b>Endless End Rods</b>: Removes the purple base from the end rods so that look better with more builds.</li><li><b>Animated Campfire Items</b>: Now the fire is animated in your inventory!</li><li><b>Ashless Campfires</b>: Campfires are now a better building block without all the ash on the bottom of them.</li><li><b>Splash Bottle o' Enchanging</b>: Now it looks throwable!</li><li><b>Plain Lether Armour</b>: Removes the brown overlay so dyed leather pops!</li><li><b>More Zombies</b>: Now zombies have more than 1 texture!</li><li><b>Alternate Bedrock</b>: Bedrock looks more black and less like birdpoop.</li><li><b>Circular Log Tops</b>: Log is still cube, but rings are rings.</li><li><b>Variation Packs</b>: Gives variations to these texture so they don't look so grid like:<ul><li>Dirt</li><li>Course Dirt</li><li>Grass</li><li>Cobblestone</li><li>Moss</li><li>Bricks</li><li>Birch Logs</li><li>Red Mushroom Blocks</li><li>Nylium</li><li>End Stone</li><li>Gravel</li><li>Mycelium</li><li>Planks</li><li>Stone</li><li>Terracotta</li><li>Unpolished Stones</li><li>Offset Bushes</li><li>Randomly Rotated Sunflowers</li><li>Villagers</li></ul></li><li><b>Diminishing Tools</b>: Tool items begin to look broken down as their durrability goes down (only works on vanilla tools)</li><li><b>Visual Waxed Copper (Items)</b>: Now you can tell if your copper items are waxed just by looking at them in your inventory.</li><li><b>Different Stems</b>: Pumpkin and watermelon now have different stems so you can tell what you planted.</li><li><b>Age 25 Kelp</b>: Fully grown kelp will now have pink flowers on top so you know that it won't grow any further.</li><li><b>Clear Banner Patterns</b>: Now you can tell what they are from the item in your inventory.</li><li><b>Sticky Piston Sides</b>: The side of the sticky piston now has green goo, so you can tell if it's sticky even if there is a block attached to it.</li><li><b>Directional Hoppers</b>: The top of hoppers now has a subtle arrow, so you can see which way they point without having to look at the bottom.</li><li><b>Directional Dispensors and Droppers</b>: Now have an arrow on the side so you can tell which way they face.</li><li><b>Directional Observers</b>: Now have an arrow on the side so you can tell which way they face.</li><li><b>Visual Honey Stages</b>: You can now tell what level of honey is in bee nests and hives by looking at them. It changes as they fill up.</li><li><b>Visual Note Block Pitch</b>: Tells you what note the Note Block is set to on the side of it. Now it's easier to make music.</li><li><b>Lower Fire</b>: When your on fire, it takes up less of your screen.</li><li><b>Lower Shield</b>: Holding a shield now takes up less of your screen.</li><li><b>No Spyglass Overlay</b>: Now it's just a zoom.</li><li><b>No Vignette</b>: Removes the black gradient around the edge of the screen.</li><li><b>Fixes to bugs or issues in the default textures</b>:<ul><li>Big Dripleaf Stem Fix</li><li>Small Dripleaf Stem Fix</li><li>Buckets are all on the same height in your inventory, and all the water is the same color.</li><li>Cactus Bottom Fix</li><li>Bright Rib Armour Trim</li><li>Beacon beam textures are now properly sized.</li><li>Blaze's Rods Fix</li><li>All block breaking particles are no the correct color.</li><li>Iron Bar z-fighting fix</li></ul></li></ul></details>
+- [Red Iron Golem Flowers](https://modrinth.com/resourcepack/red-irongolem-flowers)
+  Puts the red flowers back on the Iron Golem texture.
+- [Lower Defaults (Shield & Fire)](https://modrinth.com/resourcepack/lower-defaults)
+  Shields and being on fire no longer takes up so much of your screen.
+- [axy's Honey Note-ify](https://modrinth.com/resourcepack/axys-honey-note-ify)
+  Yuo can now tell when a bee hive is full of honey! The bees helpfully put up a stick note for you. It even has an explanation mark on it!
+  Bee's are so helpful.
+- [Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)
+  A configurable resource pack that makes working with redstone easier!  
+  <details>
+    <summary>List of Default Changes</summary>
+    <ul>
+      <li><b>Sticky Piston Sides</b>: The side of the sticky piston now has green goo, so you can tell if it's sticky even if there is a block attached to it.</li>
+      <li><b>Directional Hoppers</b>: The top of hoppers now has a subtle arrow, so you can see which way they point without having to look at the bottom.</li>
+      <li><b>Directional Dispensors and Droppers</b>: Now have an arrow on the side so you can tell which way they face.</li>
+      <li><b>Directional Observers</b>: Now have an arrow on the side so you can tell which way they face.</li>
+      <li><b>Visual Note Block Pitch</b>: Tells you what note the Note Block is set to on the side of it. Now it's easier to make music.</li>
+      <li><b>Redstone Signal Strength</b>: The redstone now has a number indicating it's signal strength.</li>
+      <li>Various redstone components will have sections of them change or light up to indicate they are powered or doing something.</li>
+    </ul>
+  </details>
+- [Stemtacular Orange](https://modrinth.com/resourcepack/stemtacular-orange)
+  Pumpkin and watermelon now have different stems so you can tell what you planted. The stems will also now connect to the side of the block, which makes more sense for the textures!
+- [Vignette Removed](https://modrinth.com/resourcepack/vignette-removed)
+  Removes the black gradient around the edge of the screen and the red ting when you are near the world border.
+- [Waxed Copper Indicators](https://modrinth.com/resourcepack/waxed-copper-indicators)
+  Now you can tell if your copper items are waxed just by looking at them in your inventory, a little honeycomb badge will be displayed on waxed items!
+  
 
 ### Resource Pack's for Mods
 These packs are included so that tools, weapons and items added by mods or datapacks can display properly.
