@@ -13,7 +13,7 @@ A vanilla+ mod pack aimed at improving basic game play mechanics that reduce unn
 
 All the mods, data packs and resource packs will be listed in the below categories explaining their purpose for being included.
 
-# Current Version
+# Current Version 1.0.0 for Minecraft 1.21.11
 ## Reduce _Needless_ Grind
 ### Gameplay Changes
 - [Quick Right-Click](https://modrinth.com/mod/quick-right-click)  
