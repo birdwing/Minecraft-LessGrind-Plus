@@ -88,10 +88,38 @@ All the mods, data packs and resource packs will be listed in the below categori
   Want a specific painting? Place a painting on the wall, then right click it while holding another painting, to cycle through the options! No more place, breaking, placing, breaking...
 - [Silent Mobs/Minecarts](https://modrinth.com/datapack/silent-mobs)
   Captured Mobs too loud? Now if you use a nametag to name them "silent" they will stop making noise!
-- [Vanilla Tweaks](https://vanillatweaks.net/)  
-  Lot's of useful additions from Vanilla Tweaks!  
- 
-  <details><summary>Crafing Tweaks</summary><ul><li><b>Back to Blocks</b>: Stairs and slabs can no be converted back into full blocks.</li><li><b>Dropper to Dispenser</b>: Crafing Dispensers is annoying because of the box. Now you can place a dropper in the middle of the crafting grid, with the bow recipe around it, to create dispensers.</li><li><b>Rotten Flesh to Leather</b>: Now you can make your zombie farm a leather farm. Simply smelt the rotten flesh.</li><li><b>Copper Powered Rails</b>: Gold is precious and copper is abundant. Now you can craft powered rails out of copper also!</li><li><b>Charcoal to Black Dye</b>: Squids are annoying to hunt. Now turn Charcoal into black dye.</li><li><b>Coal to Black Dye</b>: Squids are annoying to hunt. Now turn Coal into black dye... This seems familiar but different.</li><li><b>Universal Dyeing</b>: Any colored glass, wool or terracota can now be dyed into any other color.</li><li><b>Straight to Shapeless</b>: Craft items such as bread, paper and shulkerboxes in your 2x2 crafging grid.</li><li><b>Craftable Gravel</b>: Now you can make gravel from 4 flint.</li><li><b>Craftable Horse Armour</b>: Now you can always protect your horse.</li><li><b>Craftable Coral Blocks</b>: Now you can make coral blocks from coral fans. Making coral renewable (bonemeal coral block to get a coral fan).</li><li><b>Unpackable Ice:</b>Now blue ice can be "unpacked" into compressed ice, and compressed ice can be "unpacked" into regular ice.</li><li><b>Unpackable Nether Wart</b>: Now Nether War Blocks can be "unpacked" back into Nether Wart.</li><li><b>Unpackable Wool</b>: Wool can now be broken apart into string.</li></ul></details>
+- [Make Me Whole Again](https://modrinth.com/datapack/make-me-whole-again)
+  Stairs, slabs, walls and carpets can no be converted back into their full blocks!
+- [Better Crafts: Dispenser](https://modrinth.com/datapack/better-crafts-dispenser)
+  Crafting Dispensers is annoying because of the bow, and .. dang I just made another stack of droppers. Well now! Put the dropper in the crafting grid with a bow, and you got a brand new dispenser!
+- [Make a Dye Out Of It](https://modrinth.com/datapack/make-a-dye-out-of-it)
+  Why are different colored dye's so hard to get in minecraft? Well now mising colors works the same (or close enough) to the real world!
+  Not only can you now make *Glow Ink Sacs* by combining Inc sacs with something glowy, you can now combine different dyes together, along with new sources of dye around the world!
+  Full list of the recipe changes can be found on the [Make a Dye Out Of It Wiki Page](https://syhmac.pl/wiki/make-a-dye-out-of-it-madooi/#section-4-2)
+- [Make Me Shapeless](https://modrinth.com/datapack/make-me-shapeless)
+  Craft items such as bread, paper and shulkerboxes in your 2x2 crafting grid.
+- [Better Unpackables](https://modrinth.com/datapack/better-unpackables)
+  This could also go under inventory management. This allows certain blocks to be "unpacked" back into their components, such as turning packed ice back into ice, or Glowstone blocks back into Glowstone dust!
+  For a list of all unpacking recipes visit the [Better Unpackables Unpacking Recipes Wiki Page](https://github.com/Classics-Craftworks/Better-Unpackables/wiki/Unpacking-Recipes).
+- [Nether Wart Blocks to Nether Warts](https://modrinth.com/mod/nether-wart-block-to-nether-warts)
+  This allows converting nether wart blocks into nether warts!
+- [Craftable Horse Armor](https://modrinth.com/datapack/craft-horse-armor)
+  Now you can always protect your horse!
+- [Better Craftables](https://modrinth.com/datapack/better-craftables)
+  Some things in minecraft should just be craftable or smeltable!
+  This mod adds a bunch of quality of life crafting and smelting recipes.
+  <details><summary>View Recipes</summary>
+    <ul>
+    <li>Craftable Coral Blocks (Makes coral renewable by bonemealing the blocks to get the fans) & Bells</li>
+    <li>Craftable Gravel</li>
+    <li>Powered Rails from Copper! Gold is precious why waste it on slow minecarts.</li>
+    <li>Universal Dyeing: Any colored glass, wool or terracota can now be dyed into any other color. Hurray!</li>
+    <li>Smelt Raw Ore Blocks directly into a full block of the ore. Raw Iron Ore -> Iron Block. Blast furnaces are now useful!</li>
+    <li>Rotten Flesh now smelts into leather, it smells funny but gets the job done.</li>
+    <li><a href="https://github.com/Classics-Craftworks/Better-Craftables/wiki/Crafting-Recipes" target="_blank">All Crafting Recipes</a></li>
+    <li><a href="https://github.com/Classics-Craftworks/Better-Craftables/wiki/Smelting-Recipes" target="_blank">All Smelting Recipes</a></li>
+    </ul>
+  </details>
 
 ### Inventory Management
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)  
