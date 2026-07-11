@@ -14,7 +14,7 @@ A vanilla+ mod pack aimed at improving basic game play mechanics that reduce unn
 All the mods, data packs and resource packs will be listed in the below categories explaining their purpose for being included.
 You can find information for [Previous Versions](https://github.com/birdwing/Minecraft-LessGrind-Plus/blob/main/PreviousVersions.md) at the github page.
 
-# Current Version 1.0.3 for Minecraft 1.21.11
+# Current Version 1.0.4+1.21.11 for Minecraft 1.21.11
 ## Reduce _Needless_ Grind
 ### Gameplay Changes
 - [Quick Right-Click](https://modrinth.com/mod/quick-right-click)  
@@ -348,6 +348,10 @@ These packs are included so that tools, weapons and items added by mods or datap
   Makes minecraft work better. More details on the mod page, it's really amazing!
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)  
   Better chunk generation.
+- [ModernFix-mVUS](https://modrinth.com/mod/modernfix-mvus) or [ModernFix](https://modrinth.com/mod/modernfix) Depending on minecraft release.
+  ModernFix is an all-in-one mod that improves performance, reduces memory usage, and fixes many bugs in modern Minecraft versions.
+- [ServerCore](https://modrinth.com/mod/servercore)
+  A mod that aims to optimize the minecraft server and works on both dedicated servers and singleplayer! Includes several patches & optimizations to improve performance and reduce lagspikes, which shouldn't make any noticeable changes during gameplay. There are also some additional features enabled that can heavily reduce lag, but have a slight impact on gameplay
 
 ### Library and Helper Mods
 - [Fabric API](https://modrinth.com/mod/fabric-api)
