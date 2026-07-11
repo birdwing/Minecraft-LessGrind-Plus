@@ -14,7 +14,7 @@ A vanilla+ mod pack aimed at improving basic game play mechanics that reduce unn
 All the mods, data packs and resource packs will be listed in the below categories explaining their purpose for being included.
 You can find information for [Previous Versions](https://github.com/birdwing/Minecraft-LessGrind-Plus/blob/main/PreviousVersions.md) at the github page.
 
-# Current Version 1.0.0 for Minecraft 1.21.11
+# Current Version 1.0.3 for Minecraft 1.21.11
 ## Reduce _Needless_ Grind
 ### Gameplay Changes
 - [Quick Right-Click](https://modrinth.com/mod/quick-right-click)  
@@ -123,6 +123,8 @@ You can find information for [Previous Versions](https://github.com/birdwing/Min
   </details>
 
 ### Inventory Management
+- [Smart Copper Golem](https://modrinth.com/mod/smart-copper-golem)
+  We love the little guys! But, they are normally so dumb and forgetful.. not anymore! Now they remember what items were in chests they have visited (for a time) and can share that information with other copper golems! (YAY! Teamwork). They can also sort *similar items* such as different colored wool into the same chest. Enjoy your new smarter but just as cute friends!
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)  
   Inventory management is a pain. This at least makes it a little more bearable. Using your scrollwheel while hovering over items, will now move them into and out of open inventories!
   <details><summary>More Info</summary><b>Better Right Mouse Button</b>: Now if you are holding a stack of items, while the right mouse button is held down, if you drag over a slot multiple times, an item will be put there multiple times. Helps with putting recipes in crafting benches.<br /><b>Better Left Mouse Button</b>: Now if you left click an item, and continue holding down left click while you drag your mouse across the inventory. Items of the same type will be picked up and added to the stack you picked up. If you hold down shift while dragging, items of the same type will be "shift clicked". Easily pickup and move items. If you hold down left mouse button without picking up and item, and hold down shift, every item you "drag over" will be "shift clicked".</details>
@@ -338,6 +340,8 @@ These packs are included so that tools, weapons and items added by mods or datap
   Makes minecrafts redstone more optimized. As a side affect, strange "location based" redstone quirks are remmoved. Meaning redstone always updates and functions as expected.
 - [Entity Culling](https://modrinth.com/mod/entityculling)  
   If you can't see it, the game shouldn't render it.
+- [Immersive Optimization](https://modrinth.com/mod/immersive-optimization)
+  Better "tick scheduling" to increase performance by slowing down the tick-rate of entities not in line of site, or farther away.
 - [Clumps](https://modrinth.com/mod/clumps)  
   XP orbs are everywhere. Too many of them creates lag. This clumps them together into bigger chunks for less lag.
 - [Lithium](https://modrinth.com/mod/lithium)  
