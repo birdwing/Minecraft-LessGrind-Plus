@@ -272,34 +272,26 @@ You can find information for [Previous Versions](https://github.com/birdwing/Min
   Each container or useable block such as a crafting table now gets a makeover! Easily tell what you are interacting with.
 - [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)  
   Now it's possible to tell enchanted books apart when you buy them from villagers! Each enchantment get's it's own aesthetic book design.
-- [Red Iron Golem Flowers](https://modrinth.com/resourcepack/red-irongolem-flowers)
-  Puts the red flowers back on the Iron Golem texture.
-- [Lower Defaults (Shield & Fire)](https://modrinth.com/resourcepack/lower-defaults)
-  Shields and being on fire no longer takes up so much of your screen.
-- [axy's Honey Note-ify](https://modrinth.com/resourcepack/axys-honey-note-ify)
-  Yuo can now tell when a bee hive is full of honey! The bees helpfully put up a stick note for you. It even has an explanation mark on it!
-  Bee's are so helpful.
-- [Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)
-  A configurable resource pack that makes working with redstone easier!  
-  <details>
-    <summary>List of Default Changes</summary>
-    <ul>
-      <li><b>Sticky Piston Sides</b>: The side of the sticky piston now has green goo, so you can tell if it's sticky even if there is a block attached to it.</li>
-      <li><b>Directional Hoppers</b>: The top of hoppers now has a subtle arrow, so you can see which way they point without having to look at the bottom.</li>
-      <li><b>Directional Dispensors and Droppers</b>: Now have an arrow on the side so you can tell which way they face.</li>
-      <li><b>Directional Observers</b>: Now have an arrow on the side so you can tell which way they face.</li>
-      <li><b>Visual Note Block Pitch</b>: Tells you what note the Note Block is set to on the side of it. Now it's easier to make music.</li>
-      <li><b>Redstone Signal Strength</b>: The redstone now has a number indicating it's signal strength.</li>
-      <li>Various redstone components will have sections of them change or light up to indicate they are powered or doing something.</li>
-    </ul>
-  </details>
-- [Stemtacular Orange](https://modrinth.com/resourcepack/stemtacular-orange)
-  Pumpkin and watermelon now have different stems so you can tell what you planted. The stems will also now connect to the side of the block, which makes more sense for the textures!
 - [Vignette Removed](https://modrinth.com/resourcepack/vignette-removed)
   Removes the black gradient around the edge of the screen and the red ting when you are near the world border.
-- [Waxed Copper Indicators](https://modrinth.com/resourcepack/waxed-copper-indicators)
-  Now you can tell if your copper items are waxed just by looking at them in your inventory, a little honeycomb badge will be displayed on waxed items!
-  
+- [Vanilla Tweaks](https://vanillatweaks.net/)  
+  Lot's of changes from Vanilla Tweaks that just make sense!  
+  <details><summary>Texture Changes</summary>
+  <ul>
+    <li><b>Red Iron Golem Flowers</b>: Puts the red flowers back on the Iron Golem texture.</li>
+    <li><b>Visual Waxed Copper (Items)</b>: Now you can tell if your copper items are waxed just by looking at them in your inventory.</li>
+    <li><b>Different Stems</b>: Pumpkin and watermelon now have different stems so you can tell what you planted.</li>
+    <li><b>Age 25 Kelp</b>: Fully grown kelp will now have pink flowers on top so you know that it won't grow any further.</li>
+    <li><b>Sticky Piston Sides</b>: The side of the sticky piston now has green goo, so you can tell if it's sticky even if there is a block attached to it.</li>
+    <li><b>Directional Hoppers</b>: The top of hoppers now has a subtle arrow, so you can see which way they point without having to look at the bottom.</li>
+    <li><b>Directional Dispensors and Droppers</b>: Now have an arrow on the side so you can tell which way they face.</li>
+    <li><b>Directional Observers</b>: Now have an arrow on the side so you can tell which way they face.</li>
+    <li><b>Music Disc Redstone Preview</b>: Now you can see how strong a redstone signal music discs will output when using a comparator!</li>
+    <li><b>Visual Honey Stages</b>: You can now tell what level of honey is in bee nests and hives by looking at them. It changes as they fill up.</li>
+    <li><b>Visual Note Block Pitch</b>: Tells you what note the Note Block is set to on the side of it. Now it's easier to make music.</li>
+    <li><b>Lower Fire</b>: When your on fire, it takes up less of your screen.</li>
+    <li><b>Lower Shield</b>: Holding a shield now takes up less of your screen.</li>
+  </ul></details>
 
 ### Resource Pack's for Mods
 These packs are included so that tools, weapons and items added by mods or datapacks can display properly.
