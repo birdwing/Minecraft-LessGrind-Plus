@@ -14,7 +14,7 @@ A vanilla+ mod pack aimed at improving basic game play mechanics that reduce unn
 All the mods, data packs and resource packs will be listed in the below categories explaining their purpose for being included.
 You can find information for [Previous Versions](https://github.com/birdwing/Minecraft-LessGrind-Plus/blob/main/PreviousVersions.md) at the github page.
 
-# Current Version 2.0.3+26.1.2
+# Current Version 2.0.4+26.1.2
 ## Reduce _Needless_ Grind
 ### Gameplay Changes
 - [Wind Boost Enchantment](https://modrinth.com/datapack/wind_boost_enchant)
