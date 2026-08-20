@@ -14,9 +14,11 @@ A vanilla+ mod pack aimed at improving basic game play mechanics that reduce unn
 All the mods, data packs and resource packs will be listed in the below categories explaining their purpose for being included.
 You can find information for [Previous Versions](https://github.com/birdwing/Minecraft-LessGrind-Plus/blob/main/PreviousVersions.md) at the github page.
 
-# Current Version 1.0.5+1.21.11 for Minecraft 1.21.11
+# Current Version 2.0.3+26.1.2
 ## Reduce _Needless_ Grind
 ### Gameplay Changes
+- [Wind Boost Enchantment](https://modrinth.com/datapack/wind_boost_enchant)
+  Happy Ghasts are so cute! But *sooo sloooow*. Ever wish you could speed them up? Well now you can! You can now enchant their harness with Wind Boost to make the Happy Ghasts Faster!
 - [Quick Right-Click](https://modrinth.com/mod/quick-right-click)  
   Place, use, break. Place, use... break. Place... use.. break. Tired of having to Place, use then break things out of your inventory? Well, now you can right click into the air with your crafting bench to use it! No placing necessary!
   <details><summary>More Blocks!</summary>This also words with:<br /><ul><li>Beds</li><li>Cartography Tables</li><li>Crafting Tables</li><li>Ender Chests</li><li>Grindstones</li><li>Shulker Boxes</li><li>Smithing Tables</li><li>Stonecutters</li></ul></details>
@@ -70,12 +72,15 @@ You can find information for [Previous Versions](https://github.com/birdwing/Min
   Borderless fullscreen in minecraft. Now, when you tab to chrome to look up that cool restone tutorial, your full-screen minecraft window will still be visible!
 - [Better Statistics Screen](https://modrinth.com/mod/better-stats)  
   Now it's easier to find out how many times creepers have snuck up on you!
-- [Anti Enderman Grief](https://modrinth.com/datapack/anti-enderman-grief)
+- [No Enderman Grief](https://modrinth.com/datapack/no-enderman-grief)
   Now they can't pickup blocks and destroy the environment.
-- [Cauldron Concrete Powder](https://modrinth.com/datapack/cauldron-concrete-powder)
+- [Better Cauldrons](https://modrinth.com/datapack/ketkets-better-cauldrons)
+  - **Cauldron Concrete Powder**  
   Making concrete from powder sucks. Now just fill a cauldron will water and drop the concrete powder (in item form) into the cauldron. It will turn into concrete!
-- [Cauldron Mud](https://modrinth.com/datapack/cauldron-mud)
+  - **Cauldron Mud**  
   Nobody has time to stand around right clicking dirt with water bottles. Just fill a cauldron with water, and drop the dirt (in item form) into the cauldron. Now you have mud.
+  - **Block/Item Washing**
+  Have something that's dyed a color, and you need it back to what it was pre-dyed? Just throw it in the cauldron!
 - [Double Shulker Shell Drops](https://modrinth.com/datapack/double-shulker-shell-drops)
   Shulkers have two shells... now they always drop both.
 - [Dragon Drops Elytra](https://modrinth.com/mod/dragon-drops-elytra)
@@ -89,21 +94,18 @@ You can find information for [Previous Versions](https://github.com/birdwing/Min
 - [Silent Mobs/Minecarts](https://modrinth.com/datapack/silent-mobs)
   Captured Mobs too loud? Now if you use a nametag to name them "silent" they will stop making noise!
 ### Crafting and Smelting Changes
-- [Make Me Whole Again](https://modrinth.com/datapack/make-me-whole-again)
-  Stairs, slabs, walls and carpets can no be converted back into their full blocks!
 - [Better Crafts: Dispenser](https://modrinth.com/datapack/better-crafts-dispenser)
   Crafting Dispensers is annoying because of the bow, and .. dang I just made another stack of droppers. Well now! Put the dropper in the crafting grid with a bow, and you got a brand new dispenser!
 - [Make a Dye Out Of It](https://modrinth.com/datapack/make-a-dye-out-of-it)
   Why are different colored dye's so hard to get in minecraft? Well now mising colors works the same (or close enough) to the real world!
   Not only can you now make *Glow Ink Sacs* by combining Inc sacs with something glowy, you can now combine different dyes together, along with new sources of dye around the world!
   Full list of the recipe changes can be found on the [Make a Dye Out Of It Wiki Page](https://syhmac.pl/wiki/make-a-dye-out-of-it-madooi/#section-4-2)
-- [Make Me Shapeless](https://modrinth.com/datapack/make-me-shapeless)
-  Craft items such as bread, paper and shulkerboxes in your 2x2 crafting grid.
 - [Better Unpackables](https://modrinth.com/datapack/better-unpackables)
+  - **Unpacking**:  
   This could also go under inventory management. This allows certain blocks to be "unpacked" back into their components, such as turning packed ice back into ice, or Glowstone blocks back into Glowstone dust!
   For a list of all unpacking recipes visit the [Better Unpackables Unpacking Recipes Wiki Page](https://github.com/Classics-Craftworks/Better-Unpackables/wiki/Unpacking-Recipes).
-- [Nether Wart Blocks to Nether Warts](https://modrinth.com/mod/nether-wart-block-to-nether-warts)
-  This allows converting nether wart blocks into nether warts!
+  - **Back to Blocks**:
+  Stairs, slabs, walls and carpets can no be converted back into their full blocks!
 - [Craftable Horse Armor](https://modrinth.com/datapack/craft-horse-armor)
   Now you can always protect your horse!
 - [Better Craftables](https://modrinth.com/datapack/better-craftables)
@@ -121,10 +123,12 @@ You can find information for [Previous Versions](https://github.com/birdwing/Min
     <li><a href="https://github.com/Classics-Craftworks/Better-Craftables/wiki/Smelting-Recipes" target="_blank">All Smelting Recipes</a></li>
     </ul>
   </details>
+- [Vanilla Tweaks](https://vanillatweaks.net/)
+  - **Dropper to Dispenser**: Crafing Dispensers is annoying because of the box. Now you can place a dropper in the middle of the crafting grid, with the bow recipe around it, to create dispensers.
+  - **Straight to Shapeless**: Craft items such as bread, paper and shulkerboxes in your 2x2 crafging grid.
+  - **Unpackable Nether Wart**: Now Nether War Blocks can be "unpacked" back into Nether Wart.
 
 ### Inventory Management
-- [Smart Copper Golem](https://modrinth.com/mod/smart-copper-golem)
-  We love the little guys! But, they are normally so dumb and forgetful.. not anymore! Now they remember what items were in chests they have visited (for a time) and can share that information with other copper golems! (YAY! Teamwork). They can also sort *similar items* such as different colored wool into the same chest. Enjoy your new smarter but just as cute friends!
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)  
   Inventory management is a pain. This at least makes it a little more bearable. Using your scrollwheel while hovering over items, will now move them into and out of open inventories!
   <details><summary>More Info</summary><b>Better Right Mouse Button</b>: Now if you are holding a stack of items, while the right mouse button is held down, if you drag over a slot multiple times, an item will be put there multiple times. Helps with putting recipes in crafting benches.<br /><b>Better Left Mouse Button</b>: Now if you left click an item, and continue holding down left click while you drag your mouse across the inventory. Items of the same type will be picked up and added to the stack you picked up. If you hold down shift while dragging, items of the same type will be "shift clicked". Easily pickup and move items. If you hold down left mouse button without picking up and item, and hold down shift, every item you "drag over" will be "shift clicked".</details>
@@ -143,21 +147,19 @@ You can find information for [Previous Versions](https://github.com/birdwing/Min
 - [Stack Refill](https://modrinth.com/mod/stack-refill)  
   Placing a bunch of blocks and constantly needing to open the inventory to get more? Well not anymore! Once you use the last block, if more of it exists in your inventory it will automatically appear in your hand!  
   <details><summary>More Info</summary>This also works to replace tools/weapons when they break, potions when you throw them and food when you eat. Now you can keep just the important things in your hotbar.</details>
-- [Bundle as Quiver](https://modrinth.com/mod/bundle-as-quiver)  
+- [PorcuPack](https://modrinth.com/mod/porcupack)  
   Have different types of arrows? Or infinity and only need one? Why take up inventory space! If you have any arrows put them in bundles, you can use them with your bow or crossbow without having to take them out first!
 
 ### Now.. Where is that again?
-- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) and [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)  
+- [JourneyMap](https://modrinth.com/plugin/journeymap)
   See what the world looks like around you, see where you died, find your dog and locate players.  
   <details><summary>More Info</summary>There will be a circular minimap in the upper left hand corner to help you navigate! You can turn this on or off by pressing the <kbd>Z</kbd> key on your keyboard. Pressing the <kbd>M</kbd> key on the keyboard opens up the world map, allowing you to pan around and zoom in and out.<br />By default the map will only show the location of death points, waypoints, players and mobs that are <i>tameable</i> like dogs... so you can remember where you sat them down.</details>
 - [Locator Heads](https://modrinth.com/mod/locator-heads)  
   The player locator bar is great... except that you can't tell whose dot belongs to who. Well... Now we put their heads on the bar! It's not morbid it's useful!
-- [Death Locator](https://modrinth.com/datapack/death-locator-bar)  
-  Adds your recent death locations to the locator bar. Paired with the minimap, you will never forget the last place you failed to stay alive.
-- [Locator Lodestones](https://modrinth.com/mod/locator_lodestones)  
-  So... you use lodestones and compasses to keep track of locations. Now you have a bundle of compasses. Wouldn't it be nice if you didn't have to dig through them? Well now, if you carry them on you, they will all appear on your locator bar! Even from within bundles! Hold down tab.. and the name of the compass appears so you can see what it is!
 
 ### New Useful Items
+- [Storage Sacks](https://modrinth.com/mod/storagesacks)
+  Vanilla-style bundle upgrades! Storage Sacks adds a collection of bundle upgrades that can hold more items, but are filtered to a specific resource type.
 - [Jake's Build Tools](https://modrinth.com/datapack/jakes-build-tools)  
   Useful tools for building and exploration!  
   <details><summary>More Info</summary>
@@ -202,18 +204,6 @@ You can find information for [Previous Versions](https://github.com/birdwing/Min
     <a href="https://stardustlabs.miraheze.org/wiki/Incendium#Mobs" target="_blank">34 Custom Mobs, Including 1 Boss</a><br />
     <a href="https://stardustlabs.miraheze.org/wiki/Incendium#Advancements" target="_blank">39 New Advancements to try and earn!</a>
   </details>
-- [Deeper Dark](https://modrinth.com/datapack/deeper_dark)  
-  The warden's home is now open for exploration!
-  <details><summary>More Info</summary>
-    <ul>
-      <li>1 New dimension to Explore</li>
-      <li>7 Unique and skulk filled biomes</li>
-      <li>5 Mysterious structures to explore</li>
-      <li>7 New items to collect</li>
-      <li>6 New powerful enchantments that can only be obtained in the depths</li>
-      <li>Look out for the traps!</li>
-    </ul>
-  </details>
 - [Dungeons And Taverns](https://modrinth.com/datapack/dungeons-and-taverns)  
   A mod that adds a bunch of vanilla like structures around the world to discover, as well as 17 new enchantments found in structures that can be located by trading with Librarian villagers found throughout the world!
   <details><summary>Additional Dungeons and Taverns Addon Mods</summary>
@@ -252,8 +242,6 @@ You can find information for [Previous Versions](https://github.com/birdwing/Min
   Adds over 150 custom structures to discover and explore! From simple campires to floating water islands and mansions, you will always have something new to discover.
 - [Explorify](https://modrinth.com/datapack/explorify/gallery)  
   A small collection of vanilla like structures to discover all throughout your minecraft world.
-- [Immersive Structures](https://modrinth.com/datapack/immersive-structures)  
-  More awesome vanilla like structures to find throughout the world!
 
 ## Because It's Pretty
 - [Scholar](https://modrinth.com/mod/scholar)  
@@ -266,8 +254,6 @@ You can find information for [Previous Versions](https://github.com/birdwing/Min
   Couldn't decide if this went here or under adventure. It's a mod that modifies the vanilla terrain in subtle ways to give it more character while staying true to minecrafts roots.
 - [Unnamed Desert](https://modrinth.com/datapack/unnamed-desert)  
   Adds 8 structure types / 35 total variants to the desert and badlands biomes to enhance the feel of vanilla world generation. Again, could have also gone under adventure.
-- [Unnamed Sea](https://modrinth.com/mod/unnamed-sea)  
-  Adds 4 structure types / 16 total variants to the oceans and beach biomes to enhance the feel of vanilla world generation. Again, could have also gone under adventure.
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons)  
   Creates and stores LOD's which are lower detailed terrain chunks. This allows the minecraft world to be visible *much* farther away, without turning your PC into a space heater!
   <details><summary>More Info</summary>Terrain that is farther away will have lower detail than terrain close up. While you some things will be hard to make out, the general <i>feel</i> of the terrain is there making the world feel much bigger and allowing you to tell what biomes they are. This allows you to see way off in the distance without having to fully load all the minecraft chunks. Terrain is also cached on your computer so that you can see further than the server render distance.</details>
@@ -328,8 +314,6 @@ These packs are included so that tools, weapons and items added by mods or datap
   This is the resourcepack for the [Incendium](https://modrinth.com/datapack/incendium) mod.
 
 ## Make Minecraft go Vroom (Performance Mods)
-- [Krypton](https://modrinth.com/mod/krypton)  
-  Optimize minecrafts networking infastructure.
 - [Sodium](https://modrinth.com/mod/sodium)  
   "Sodium is a powerful optimization mod for the Minecraft client, which greatly improves frame rates and micro-stutter, while fixing many graphical issues in Minecraft."
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)  
@@ -353,8 +337,12 @@ These packs are included so that tools, weapons and items added by mods or datap
 - [ServerCore](https://modrinth.com/mod/servercore)
   A mod that aims to optimize the minecraft server and works on both dedicated servers and singleplayer! Includes several patches & optimizations to improve performance and reduce lagspikes, which shouldn't make any noticeable changes during gameplay. There are also some additional features enabled that can heavily reduce lag, but have a slight impact on gameplay
 
+## Credits:
+Vanilla Tweaks: https://vanillatweaks.net/
+
 ### Library and Helper Mods
 - [Fabric API](https://modrinth.com/mod/fabric-api)
+- [Cloth Config Api](https://modrinth.com/mod/cloth-config)
 - [Collective](https://modrinth.com/mod/collective)
 - [JamLib](https://modrinth.com/mod/jamlib)
 - [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
@@ -371,16 +359,10 @@ These packs are included so that tools, weapons and items added by mods or datap
 - [TCDCommons API](https://modrinth.com/mod/tcdcommons)
 - [Configured Defaults](https://modrinth.com/mod/configured-defaults)  
   Makes it possible to set default configs for all the mods. So that default keybinds and other settings are a thing, and not annoying for everyoen to setup on their own.
-- [Soft Loader](https://modrinth.com/mod/soft-loader)  
+- [Simple Datapacks](https://modrinth.com/mod/simple-datapacks)  
   Automatically adds and activates datapacks in any new world created!
 - [Moog's Structure Lib](https://modrinth.com/mod/moogs-structure-lib)
 - [Cobweb](https://modrinth.com/mod/cobweb)
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
-- [Quad](https://modrinth.com/mod/quad)
-- [MCPitanLib](https://modrinth.com/mod/mcpitanlibarch)
 - [Sparse Structures](https://modrinth.com/mod/sparsestructures)
   Makes sure that all the structures generated in the world, because we have added so many of them, do not spawn too close to each other.
-- [Respackopts](https://modrinth.com/mod/respackopts)
-  The mod that allows us to configure the Redstone Tweaks Resource Pack.
-- [LibJF](https://modrinth.com/mod/libjf)
-- [Deimos](https://modrinth.com/mod/deimos)
