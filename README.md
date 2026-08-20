@@ -147,8 +147,6 @@ You can find information for [Previous Versions](https://github.com/birdwing/Min
 - [Stack Refill](https://modrinth.com/mod/stack-refill)  
   Placing a bunch of blocks and constantly needing to open the inventory to get more? Well not anymore! Once you use the last block, if more of it exists in your inventory it will automatically appear in your hand!  
   <details><summary>More Info</summary>This also works to replace tools/weapons when they break, potions when you throw them and food when you eat. Now you can keep just the important things in your hotbar.</details>
-- [PorcuPack](https://modrinth.com/mod/porcupack)  
-  Have different types of arrows? Or infinity and only need one? Why take up inventory space! If you have any arrows put them in bundles, you can use them with your bow or crossbow without having to take them out first!
 
 ### Now.. Where is that again?
 - [JourneyMap](https://modrinth.com/plugin/journeymap)
